@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: chatbot
-          image: barneywang/chatbot:latest
+          image: barneywang/chatbot:1.0.0-9
           ports:
             - containerPort: 3000
